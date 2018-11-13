@@ -15,7 +15,6 @@ In order to navigate this repo, and mostly understand what I have done, [here](h
 
 Things I have added to the package:
 | **Description**  | **Link** | **Status** |
-
 | something | [link]() | 👍 |
 | something | [link]() | 👍 |
 
