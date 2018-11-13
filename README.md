@@ -14,6 +14,7 @@
 In order to navigate this repo, and mostly understand what I have done, [here](https://www.stat.berkeley.edu/~s133/factors.html) is a super good primer on factors!
 
 Things I have added to the package:
+
 | **Description**  | **Link** | **Status** |
 |------------------|----------|------------|
 | something | [link]() | 👍 |
