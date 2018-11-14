@@ -11,8 +11,6 @@
 |[README.md](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/README.md)|This readme.md file provides an overview of the ghist of this repo and provides useful pointers to key files in my homework-7 repo |
 |[foofactors](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/foofactors)| This contains the `foofactors` R project.  |
 
-In order to navigate this repo, and mostly understand what I have done, [here](https://www.stat.berkeley.edu/~s133/factors.html) is a super good primer on factors!
-
 I chose a couple tasks I found interesting to add to the `foofactors` package. They're described below:
 
 | **Description**  | **Link** | **Status** |
@@ -25,6 +23,7 @@ Enjoy!
 
 ## Resources I found useful
 
-[jenny's page](https://www.stat.ubc.ca/~jenny/STAT545A/block05_getNumbersOut.html#saverds-and-readrds)
 
 In order to navigate this repo, and mostly understand what I have done, [here](https://www.stat.berkeley.edu/~s133/factors.html) is a super good primer on factors!
+
+And [jenny's page](https://www.stat.ubc.ca/~jenny/STAT545A/block05_getNumbersOut.html#saverds-and-readrds)!
