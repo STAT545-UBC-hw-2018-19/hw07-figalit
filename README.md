@@ -13,11 +13,18 @@
 
 In order to navigate this repo, and mostly understand what I have done, [here](https://www.stat.berkeley.edu/~s133/factors.html) is a super good primer on factors!
 
-Things I have added to the package:
+I chose a couple tasks I found interesting to add to the `foofactors` package. They're described below:
 
 | **Description**  | **Link** | **Status** |
 |------------------|----------|------------|
-| something | [link]() | 👍 |
-| something | [link]() | 👍 |
+| write a version of `reorder()` that uses `desc()` a la `(d)plyr` | [link]() | 👍 |
+| write a version of `factor()` that sets levels to the order in which they appear in the data, i.e. set the levels “as is” | [link]() | 👍 |
+| functions to write and read data frames to plain text delimited files while retaining factor levels; maybe by writing/reading a companion file | [link]() | 👍 |
 
 Enjoy!
+
+## Resources I found useful
+
+[jenny's page](https://www.stat.ubc.ca/~jenny/STAT545A/block05_getNumbersOut.html#saverds-and-readrds)
+
+In order to navigate this repo, and mostly understand what I have done, [here](https://www.stat.berkeley.edu/~s133/factors.html) is a super good primer on factors!
