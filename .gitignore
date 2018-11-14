@@ -1,3 +1,4 @@
+*.Rapp.history
 *.tar.gz
 *.Rcheck
 .Rproj.user
