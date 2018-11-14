@@ -1,5 +1,5 @@
-.tar.gz
-.Rcheck
+*.tar.gz
+*.Rcheck
 .Rproj.user
 .Rhistory
 .RData

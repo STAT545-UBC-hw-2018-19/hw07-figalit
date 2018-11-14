@@ -1,9 +1,0 @@
-* using log directory ‘/Users/erkamsenol/Desktop/STAT/hw7/foofactors.Rcheck’
-* using R version 3.5.1 (2018-07-02)
-* using platform: x86_64-apple-darwin15.6.0 (64-bit)
-* using session charset: UTF-8
-* using options ‘--no-manual --as-cran’
-* checking for file ‘foofactors/DESCRIPTION’ ... OK
-* this is package ‘foofactors’ version ‘0.0.0.9000’
-* checking package namespace information ... OK
-* checking package dependencies ...
