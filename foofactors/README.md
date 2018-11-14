@@ -68,3 +68,6 @@ freq_out(x)
 #> 4      d    17
 #> 5      e    15
 ```
+
+For nice and full examples of how to use this package, you can adopt through the test examples from [the test folder](https://github.com/STAT545-UBC-students/hw07-figalit/tree/master/foofactors/tests/testthat). 
+
