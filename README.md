@@ -17,9 +17,9 @@ I chose a couple tasks I found interesting to add to the `foofactors` package. T
 
 | **Description**  | **Link** | **Status** |
 |------------------|----------|------------|
-| write a version of `reorder()` that uses `desc()` a la `(d)plyr` | [link]() | 👍 |
-| write a version of `factor()` that sets levels to the order in which they appear in the data, i.e. set the levels “as is” | [link]() | 👍 |
-| functions to write and read data frames to plain text delimited files while retaining factor levels; maybe by writing/reading a companion file | [link]() | 👍 |
+| write a version of `reorder()` that uses `desc()` a la `(d)plyr` | [reorder_desc.R](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/foofactors/R/reorder_desc.R) | 👍 |
+| write a version of `factor()` that sets levels to the order in which they appear in the data, i.e. set the levels “as is” | [forders.R](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/foofactors/R/forders.R) | 👍 |
+| functions to write and read data frames to plain text delimited files while retaining factor levels; maybe by writing/reading a companion file | [write_df.R](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/foofactors/R/write_df.R), [read_df.R](https://github.com/STAT545-UBC-students/hw07-figalit/blob/master/foofactors/R/read_df.R) | 👍 |
 
 Enjoy!
 
